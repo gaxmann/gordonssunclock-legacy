@@ -1,4 +1,4 @@
-# Gordon's Sun Clock legacy
+# Sun Clock legacy
 
 Legacy line of Gordon's Sun Clock (Android 5-14).
 
