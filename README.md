@@ -1,4 +1,4 @@
-# Sun Clock Legacy
+# Sun Clock – Legacy download
 
 **Legacy ☀️ APK distribution**
 
