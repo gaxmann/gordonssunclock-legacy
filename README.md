@@ -1,4 +1,4 @@
-# Sun Clock – Legacy
+# Sun Clock Legacy – Natural Time ☀️
 
 **Legacy APK distribution** 🕰️
 
